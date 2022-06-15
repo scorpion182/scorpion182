@@ -15,7 +15,7 @@
 
 <br />
 
-Hi!, my name is Yudistira Gita Ramadhan, you can call me Yudis.I am an ordinary guy with a big passion for android aplication & gaming development.
+Hi!, my name is Yudistira Gita Ramadhan, you can call me Yudis.I am an ordinary guy with a big passion for android application & gaming development.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
