@@ -30,7 +30,7 @@ Hi!, my name is Yudistira Gita Ramadhan, you can call me Yudis.I am an ordinary 
 
 ## 📈 My Github Stats
 
-[![scorpion182's github stats](https://github-readme-stats.vercel.app/api?username=scorpion182)](https://github.com/scorpion182/github-readme-stats)
+[![scorpion182's github stats](https://github-readme-stats.vercel.app/api?username=scorpion182&count_private=true)](https://github.com/scorpion182/github-readme-stats)
 
 <!---
 scorpion182/scorpion182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
