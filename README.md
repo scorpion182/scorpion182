@@ -1,20 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!-- Greetings -->
+## 👋 Hola, I'm Yudis!
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/yudistira-gita-ramadhan-m-m-84702345">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=scorpion182) 
-  
-</div>
+<!-- Social Media -->
+[![Linkedin](https://img.shields.io/badge/-yudistiragr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yudistira-gita-ramadhan-m-m-84702345/)
+[![Gmail](https://img.shields.io/badge/-yudistira.gr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yudistira.gr@gmail.com)
 
-## Hola Amigo
-
-<br />
-
+<!-- Introduction -->
 Hi!, my name is Yudistira Gita Ramadhan, you can call me Yudis.I am an ordinary guy with a big passion for android application & gaming development.
 
 ### :hammer_and_wrench: Languages and Tools :
